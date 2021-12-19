@@ -1,0 +1,2 @@
+# spreadsheet-db
+Googleスプレッドシートをデータベースライクに扱うためのGAS

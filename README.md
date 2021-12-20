@@ -1,5 +1,6 @@
 # spreadsheet-db
 Googleスプレッドシートをデータベースライクに扱うためのGAS
+
 (詳細説明)
 http://pineplanter.moo.jp/non-it-salaryman/2021/12/20/spreadsheet-db2/
 

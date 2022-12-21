@@ -1,17 +1,4 @@
-// const sheetID = "1vCvOwv3-oWmJE9zCMi5NqyWU0-ZVh0cz3fB3EQPD5pE";
-const sheetID = "1jj4s5VlgrzSgGWmel_KpvQHAeOKMwJYgxfbuiDepJfs";
-
-// function test(){
-
-//   buf = readRecords('仕入品名マスタ', '', '仕入品名CODE');
-//   // var data = {'県名':'熊本県a','市区名':'八代市b', '住所':'本野町c'};
-//   // var b = updateRecord('KEN', data, "郵便番号=5406117");
-//   // var b = insertRecord('KEN', data);
-//   // var b = deleteRecords('KEN', "郵便番号=9999999");
-//   console.log(buf);
-
-// }
-
+const sheetID = "シートID";
 
 //読み込み
 function readRecords(table, filter, orderby){
